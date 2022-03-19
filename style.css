@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(70,142,236);
+    font: normal 16pt Verdana;
+}
+header {
+    color: white;
+    text-align: center;
+
+}
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+}
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+select {
+    width: 250px;
+}
+img {
+    margin: 10px;
+}
+footer a, footer a:hover {
+    text-decoration: underline;
+    color: white;
+}
